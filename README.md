@@ -1,2 +1,1 @@
-# Users
-MSD API
+# Users MSD API
